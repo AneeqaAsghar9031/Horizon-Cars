@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(243, 247, 247);
+}
+.img-fluid{
+    max-width: 45%;
+    height: auto;
+}
+.container{
+    background-color:white;
+
+}
